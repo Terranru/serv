@@ -1,0 +1,3 @@
+*.dt filter=lfs diff=lfs merge=lfs -text
+*.cf filter=lfs diff=lfs merge=lfs -text
+*.cfu filter=lfs diff=lfs merge=lfs -text

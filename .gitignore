@@ -1,0 +1,21 @@
+# Кэш EDT
+.metadata/
+.settings/
+*.log
+
+# Временные файлы 1С
+*.tmp
+*.bak
+
+# Файлы блокировок
+1Cv8.1CD
+1Cv8tmp.1CD
+
+# Кэш сборки
+build/
+out/
+
+# OS файлы
+Thumbs.db
+desktop.ini
+.DS_Store
