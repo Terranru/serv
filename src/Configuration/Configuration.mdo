@@ -49,4 +49,5 @@
   <commonPictures>CommonPicture.Материалы</commonPictures>
   <commonPictures>CommonPicture.Предприятие</commonPictures>
   <commonPictures>CommonPicture.Услуги</commonPictures>
+  <catalogs>Catalog.Клиенты</catalogs>
 </mdclass:Configuration>
