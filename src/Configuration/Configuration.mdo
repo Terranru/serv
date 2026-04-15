@@ -51,4 +51,5 @@
   <commonPictures>CommonPicture.Услуги</commonPictures>
   <catalogs>Catalog.Клиенты</catalogs>
   <catalogs>Catalog.Сотрудники</catalogs>
+  <catalogs>Catalog.Номенклатура</catalogs>
 </mdclass:Configuration>
